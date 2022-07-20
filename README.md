@@ -76,7 +76,7 @@ document.write('<br>');
 document.write('<button type="button" class="copy" style="background-color:black; color: #fff; borber: 2px solid #4CAF50; padding: 8px 18px;">Copiar Texto</button>');
 document.write('<br>');
 document.write('<br>');
-document.write('<a href="https://rhianmello.github.io/layout.minsait.indra/">Retornar</a>');
+document.write('<a href="https://https://github.com/Vaugustoc/MINSAIT/">Retornar</a>');
 
 
 const btnCopy = document.querySelector('button.copy');
@@ -107,7 +107,7 @@ btnCopy.addEventListener('click', (e) => {
 	<hr size="5" color="#fff">
 	<div id="menu">
 		<ul>
-			<li><a href="https://rhianmello.github.io/layout.minsait.indra/"> Inicio </a></li>
+			<li><a href="https://https://github.com/Vaugustoc/MINSAIT/"> Inicio </a></li>
 			<li><a href="sitef.html"> SITEF </a></li>
 			<li><a href="vivonext.html"> VIVO NEXT </a></li>
 			<li><a href="vivocorp.html"> VIVO CORP </a></li>
@@ -226,12 +226,13 @@ btnCopy.addEventListener('click', (e) => {
                                 <option>#AVANT</option>
                                 <option>#Callidus</option>
                                 <option>#Dep apple</option>
-								<option>#Escrituração Fiscal</option>
+				<option>#Escrituração Fiscal</option>
                                 <option>#HYBRIS (Loja online)</option>
                                 <option>#NF-e presa na engrenagem/status equivocado</option>
                                 <option>#Parada em alguma etapa</option>
                                 <option>#Rejeição 109,114,558 - Tentativa de contingência</option>
-                                <option>#Rejeição 210,232, 233, 234, 237, 305, 306, 728 - Cadastro cliente perante SEFAZ</option>                                <option>#Rejeição 210,232, 233, 234, 305, 306, 728 - Cadastro cliente perante SEFAZ</option>
+                                <option>#Rejeição 210,232, 233, 234, 237, 305, 306, 728 - Cadastro cliente perante SEFAZ</option>                                       
+				<option>#Rejeição 210,232, 233, 234, 305, 306, 728 - Cadastro cliente perante SEFAZ</option>
                                 <option>#Rejeição 215, 225, 532, 531, 508, 602, 693, 694, 798, 799, 815, 930 - Dados tributários de ICMS</option>
                                 <option>#Rejeição 228, 703 - Data de operação muito no passado/Data-Hora de Emissão posterior ao horário de recebimento</option>
                                 <option>#Rejeição 241 - Nº NF-e já utilizado</option>
@@ -311,7 +312,6 @@ btnCopy.addEventListener('click', (e) => {
                                 <option>#XML</option>
 			</select>
 		</div>
-		
 		<div class="form-group col-md-4">
 			<label>Rejeição 1:</label>
 			<select id="rejeicao1" class="form-control">
@@ -376,7 +376,6 @@ btnCopy.addEventListener('click', (e) => {
 				<option>#Rejeição 930</option>
 			</select>
 		</div>
-
 		<div class="form-group col-md-4">
 			<label>Rejeição 2:</label>
 			<select id="rejeicao2" class="form-control">
@@ -534,7 +533,7 @@ btnCopy.addEventListener('click', (e) => {
 	<hr size="5" color="#fff">
 	<div id="menu">
 		<ul>
-			<li><a href="https://rhianmello.github.io/layout.minsait.indra/"> Inicio </a></li>
+			<li><a href="https://https://github.com/Vaugustoc/MINSAIT/"> Inicio </a></li>
 			<li><a href="sitef.html"> SITEF </a></li>
 			<li><a href="vivonext.html"> VIVO NEXT </a></li>
 			<li><a href="vivocorp.html"> VIVO CORP </a></li>
@@ -653,12 +652,13 @@ btnCopy.addEventListener('click', (e) => {
                                 <option>#AVANT</option>
                                 <option>#Callidus</option>
                                 <option>#Dep apple</option>
-								<option>#Escrituração Fiscal</option>
+				<option>#Escrituração Fiscal</option>
                                 <option>#HYBRIS (Loja online)</option>
                                 <option>#NF-e presa na engrenagem/status equivocado</option>
                                 <option>#Parada em alguma etapa</option>
                                 <option>#Rejeição 109,114,558 - Tentativa de contingência</option>
-                                <option>#Rejeição 210,232, 233, 234, 237, 305, 306, 728 - Cadastro cliente perante SEFAZ</option>                                <option>#Rejeição 210,232, 233, 234, 305, 306, 728 - Cadastro cliente perante SEFAZ</option>
+                                <option>#Rejeição 210,232, 233, 234, 237, 305, 306, 728 - Cadastro cliente perante SEFAZ</option>                                  
+				<option>#Rejeição 210,232, 233, 234, 305, 306, 728 - Cadastro cliente perante SEFAZ</option>
                                 <option>#Rejeição 215, 225, 532, 531, 508, 602, 693, 694, 798, 799, 815, 930 - Dados tributários de ICMS</option>
                                 <option>#Rejeição 228, 703 - Data de operação muito no passado/Data-Hora de Emissão posterior ao horário de recebimento</option>
                                 <option>#Rejeição 241 - Nº NF-e já utilizado</option>
@@ -699,7 +699,7 @@ btnCopy.addEventListener('click', (e) => {
                                 <option>#AVANT</option>
                                 <option>#Callidus</option>
                                 <option>#Dep apple</option>
-								<option>#Escrituração Fiscal</option>
+				<option>#Escrituração Fiscal</option>
                                 <option>#HYBRIS (Loja online)</option>
                                 <option>#NF-e presa na engrenagem/status equivocado</option>
                                 <option>#Parada em alguma etapa</option>
@@ -738,7 +738,6 @@ btnCopy.addEventListener('click', (e) => {
                                 <option>#XML</option>
 			</select>
 		</div>
-		
 		<div class="form-group col-md-4">
 			<label>Rejeição 1:</label>
 			<select id="rejeicao1" class="form-control">
@@ -803,7 +802,6 @@ btnCopy.addEventListener('click', (e) => {
 				<option>#Rejeição 930</option>
 			</select>
 		</div>
-
 		<div class="form-group col-md-4">
 			<label>Rejeição 2:</label>
 			<select id="rejeicao2" class="form-control">
@@ -868,7 +866,6 @@ btnCopy.addEventListener('click', (e) => {
 				<option>#Rejeição 930</option>
 			</select>
 		</div>
-
 		<div class="form-group col-md-4">
 			<label>Rejeição 3:</label>
 			<select id="rejeicao3" class="form-control">
